@@ -104,3 +104,6 @@ venv.bak/
 
 # pycharm
 .idea
+
+# settings
+settings.ini
